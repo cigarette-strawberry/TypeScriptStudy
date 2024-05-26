@@ -1,9 +1,9 @@
 /**
  * 装饰器
  * 1.类装饰器 ClassDecorator target 构造函数
- * 2.属性装饰器
- * 3.参数装饰器
- * 4.方法装饰器 PropertyDescriptor
+ * 2.属性装饰器 PropertyDecorator
+ * 3.参数装饰器 ParameterDecorator
+ * 4.方法装饰器 MethodDecorator PropertyDescriptor
  * 5.装饰器工厂
  * 6.import 'reflect-metadata'
  * 7.axios/fetch
